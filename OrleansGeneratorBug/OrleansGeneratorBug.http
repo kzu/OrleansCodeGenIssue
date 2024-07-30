@@ -1,0 +1,6 @@
+@OrleansGeneratorBug_HostAddress = http://localhost:5272
+
+GET {{OrleansGeneratorBug_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
